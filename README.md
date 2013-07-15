@@ -4,8 +4,7 @@
 
 ##  章节
 
-* chapter 1:
-* chapter 2:
-* chapter 3:
-* chapter 4:
-* chapter 5:
+*  [吃喝](https://github.com/xiaoronglv/Dxyer/blob/master/chapters/food.md)
+*  [运动俱乐部](https://github.com/xiaoronglv/Dxyer/blob/master/chapters/sports.md)
+*  [租房](https://github.com/xiaoronglv/Dxyer/blob/master/chapters/renting.md)
+*  [办公室布局](https://github.com/xiaoronglv/Dxyer/blob/master/chapters/office.md)
